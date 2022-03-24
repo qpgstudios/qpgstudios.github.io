@@ -1,6 +1,6 @@
 # QPG
+###### [About Us](https://qpgstudios.github.io/aboutus) [Website News](https://qpgstudios.github.io/webnews)
 
-![Logo](https://imgur.com/sHikgMm)
 
 #### Site Under Work
 
